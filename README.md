@@ -1,68 +1,65 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/Cindy1229/my-eshop">
+    <img src="https://i.ibb.co/Zc05QkS/mylogo.png" alt="Logo" width="80" height="80">
+  </a>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+  <h3 align="center">Cindy's E-Shop</h3>
 
-### `npm test`
+  <p align="center">
+    An E-Commerce Site that sells Nintendo Games!
+    <br />
+    <a href="https://e-commerce-site-7f454.firebaseapp.com/">View Demo</a>
+  </p>
+</p>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+* [About the Project](#about-the-project)
+  * [Built With](#built-with)
+* [Contact](#contact)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<img src="https://i.ibb.co/4J8FLtv/Screen-Shot-2020-09-12-at-12-53-49-AM-2.png" alt="Screen-Shot-2020-09-12-at-12-53-49-AM-2" border="0">
+<img src="https://i.ibb.co/c64cJh1/Screen-Shot-2020-09-12-at-12-25-23-AM-2.png" alt="Screen-Shot-2020-09-12-at-12-25-23-AM-2" border="0">
+<img src="https://i.ibb.co/617sPt0/Screen-Shot-2020-09-12-at-12-25-32-AM-2.png" alt="Screen-Shot-2020-09-12-at-12-25-32-AM-2" border="0">
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+This is a mock-up e-commerce website that I built. Mainly support adding products to carts and proceed with checkout. Used Stripe to process a secure payment procedure.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+[Check for demo here](https://e-commerce-site-7f454.firebaseapp.com/)
 
-## Learn More
+### Built With
+This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.Used Firebase for building the login authentication as well as backend data storage.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+* [NodeJs](https://nodejs.org/en/)
+* [Stripe](https://stripe.com)
+* [React](https://reactjs.org/)
+* [Express](https://expressjs.com/)
+* [Firebase](https://firebase.google.com/)
 
-### Code Splitting
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-### Analyzing the Bundle Size
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-### Making a Progressive Web App
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+<!-- CONTACT -->
+## Contact
 
-### Advanced Configuration
+Cindy Shi - shi426@purdue.edu
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+Project Link: [https://github.com/Cindy1229/my-eshop](https://github.com/Cindy1229/my-eshop)
 
-### Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
