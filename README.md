@@ -41,7 +41,7 @@ This is a mock-up e-commerce website that I built. Mainly support adding product
 [Check for demo here](https://e-commerce-site-7f454.firebaseapp.com/)
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.Used Firebase for building the login authentication as well as backend data storage.
+
 
 
 * [NodeJs](https://nodejs.org/en/)
